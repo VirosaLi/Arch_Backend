@@ -1,0 +1,90 @@
+[
+  {
+    "facility": "Laboratory",
+    "gas heating": 50,
+    "cooling": 20,
+    "fans": 23,
+    "pumps": 3,
+    "lighting": 11,
+    "DHW": 8,
+    "process": 45,
+    "total": 160
+  },
+  {
+    "facility": "Office",
+    "gas heating": 13,
+    "cooling": 10,
+    "fans": 5,
+    "pumps": 1,
+    "lighting": 15,
+    "DHW": 2,
+    "process": 30,
+    "total": 76
+  },
+  {
+    "facility": "Education K-12",
+    "gas heating": 23,
+    "cooling": 7,
+    "fans": 7,
+    "pumps": 1.5,
+    "lighting": 11,
+    "DHW": 4,
+    "process": 16,
+    "total": 69.5
+  },
+  {
+    "facility": "Healthcare-outpatient",
+    "gas heating": 40,
+    "cooling": 15,
+    "fans": 13,
+    "pumps": 3,
+    "lighting": 20,
+    "DHW": 10,
+    "process": 40,
+    "total": 141
+  },
+  {
+    "facility": "Healthcare-Inpatient",
+    "gas heating": 75,
+    "cooling": 20,
+    "fans": 20,
+    "pumps": 5,
+    "lighting": 25,
+    "DHW": 15,
+    "process": 50,
+    "total": 210
+  },
+  {
+    "facility": "Hospitality",
+    "gas heating": 22,
+    "cooling": 8,
+    "fans": 6,
+    "pumps": 1,
+    "lighting": 19,
+    "DHW": 20,
+    "process": 20,
+    "total": 96
+  },
+  {
+    "facility": "Multifamily",
+    "gas heating": 20,
+    "cooling": 9,
+    "fans": 6,
+    "pumps": 0.5,
+    "lighting": 16,
+    "DHW": 15,
+    "process": 15,
+    "total": 81.5
+  },
+  {
+    "facility": "Higher Education",
+    "gas heating": 24,
+    "cooling": 8,
+    "fans": 6,
+    "pumps": 2,
+    "lighting": 7,
+    "DHW": 2,
+    "process": 12,
+    "total": 61
+  }
+]
